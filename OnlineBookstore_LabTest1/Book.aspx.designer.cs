@@ -22,58 +22,58 @@ namespace OnlineBookstore_LabTest1 {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// Label11 control.
+        /// lblSubtotalPrice control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label11;
+        protected global::System.Web.UI.WebControls.Label lblSubtotalPrice;
         
         /// <summary>
-        /// Label8 control.
+        /// btnSubmitOrder control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label8;
+        protected global::System.Web.UI.WebControls.Button btnSubmitOrder;
         
         /// <summary>
-        /// txtBookTitle1 control.
+        /// lblBook1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtBookTitle1;
+        protected global::System.Web.UI.WebControls.Label lblBook1;
         
         /// <summary>
-        /// Label7 control.
+        /// lblAuthor1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label7;
+        protected global::System.Web.UI.WebControls.Label lblAuthor1;
         
         /// <summary>
-        /// txtISBN1 control.
+        /// lblDelete1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtISBN1;
+        protected global::System.Web.UI.WebControls.Label lblDelete1;
         
         /// <summary>
-        /// Label1 control.
+        /// lblSaveforLater1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label1;
+        protected global::System.Web.UI.WebControls.Label lblSaveforLater1;
         
         /// <summary>
         /// txtQuantity1 control.
@@ -85,40 +85,13 @@ namespace OnlineBookstore_LabTest1 {
         protected global::System.Web.UI.WebControls.TextBox txtQuantity1;
         
         /// <summary>
-        /// Label9 control.
+        /// Label1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label9;
-        
-        /// <summary>
-        /// txtBookTitle2 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtBookTitle2;
-        
-        /// <summary>
-        /// Label5 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label5;
-        
-        /// <summary>
-        /// txtISBN2 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtISBN2;
+        protected global::System.Web.UI.WebControls.Label Label1;
         
         /// <summary>
         /// Label2 control.
@@ -130,6 +103,24 @@ namespace OnlineBookstore_LabTest1 {
         protected global::System.Web.UI.WebControls.Label Label2;
         
         /// <summary>
+        /// Label3 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label Label3;
+        
+        /// <summary>
+        /// Label4 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label Label4;
+        
+        /// <summary>
         /// txtQuantity2 control.
         /// </summary>
         /// <remarks>
@@ -139,22 +130,13 @@ namespace OnlineBookstore_LabTest1 {
         protected global::System.Web.UI.WebControls.TextBox txtQuantity2;
         
         /// <summary>
-        /// Label10 control.
+        /// Label5 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label10;
-        
-        /// <summary>
-        /// txtBookTitle3 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtBookTitle3;
+        protected global::System.Web.UI.WebControls.Label Label5;
         
         /// <summary>
         /// Label6 control.
@@ -166,22 +148,22 @@ namespace OnlineBookstore_LabTest1 {
         protected global::System.Web.UI.WebControls.Label Label6;
         
         /// <summary>
-        /// txtISBN3 control.
+        /// Label7 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtISBN3;
+        protected global::System.Web.UI.WebControls.Label Label7;
         
         /// <summary>
-        /// Label3 control.
+        /// Label8 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label3;
+        protected global::System.Web.UI.WebControls.Label Label8;
         
         /// <summary>
         /// txtQuantity3 control.
@@ -191,32 +173,5 @@ namespace OnlineBookstore_LabTest1 {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtQuantity3;
-        
-        /// <summary>
-        /// lblTotalPrice control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblTotalPrice;
-        
-        /// <summary>
-        /// txtPrice control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtPrice;
-        
-        /// <summary>
-        /// btnSubmitOrder control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSubmitOrder;
     }
 }
